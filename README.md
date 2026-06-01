@@ -1,17 +1,19 @@
 # Hey, I'm Maryam 👋
 
-I build websites with WordPress, WooCommerce and Elementor — combining clean design, functionality and user-focused experiences.
+I build modern web experiences through WordPress, front-end development, UI-focused design and SEO.
 
-Toolbox
+## Toolbox
 
 * WordPress
 * WooCommerce
 * Elementor
 * HTML / CSS
-* UI/UX Design
+* Front-End Development
+* UI / UX Design
+* SEO
 * Figma
 * Adobe XD
 
- Projects
+## Projects
 
-Web projects, WordPress builds and design work.
+Web development projects, WordPress builds, front-end work, UI design and website optimization.
